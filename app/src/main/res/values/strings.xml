@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PlayFootBall</string>
+    <string name="home_name">Home Team</string>
+    <string name="away_name">Away Team</string>
+    <string name="status">Status</string>
+    <string name="data_time">Date and Time</string>
+    <string name="HomeGoals">HomeTeam goals</string>
+    <string name="AwayGoals">AwayTeam  goals</string>
+</resources>
